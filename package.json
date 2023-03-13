@@ -1,0 +1,18 @@
+{
+  "name": "explorando-marte",
+  "version": "1.0.0",
+  "description": "este programa processa uma série de instruções enviadas e retorna uma série de coordenadas, via CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": {
+    "name": "Elzio Lima",
+    "email": "elziolimach@gmail.com",
+    "linkedin": "https://linkedin.com/in/elzio-lima"
+  },
+  "license": "ISC"
+}
