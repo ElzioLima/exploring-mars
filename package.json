@@ -4,7 +4,7 @@
   "description": "este programa processa uma série de instruções enviadas e retorna uma série de coordenadas, via CLI",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/main"
   },
   "keywords": [
     "Javascript"
